@@ -1,6 +1,5 @@
 ![24-300x279](https://user-images.githubusercontent.com/120243288/214478612-da34704c-b2a0-4060-8e3f-9ff8c83c3376.jpg)
 ![24-300x279-1](https://user-images.githubusercontent.com/120243288/214478648-1fd4c5af-5575-4bf2-8d67-db2eeeccca65.jpg)
-![24-300x279](https://user-images.githubusercontent.com/120243288/214478650-f2d0664d-6860-4769-a67d-626196ea9d65.jpg)
 <img width="438" alt="Снимок экрана 2023-01-15 в 11 23 11" src="https://user-images.githubusercontent.com/120243288/214478653-5b12ce14-3c4a-4418-ad9f-1799af7245c0.png">
 <img width="471" alt="Снимок экрана 2023-01-15 в 11 23 39" src="https://user-images.githubusercontent.com/120243288/214478700-b58d02db-52a7-4dfc-b079-bfab41b36f3c.png">
 <img width="568" alt="Снимок экрана 2023-01-15 в 11 24 52" src="https://user-images.githubusercontent.com/120243288/214478709-b8b7eb2e-07f2-4bc8-a80a-8e963e053612.png">
@@ -11,9 +10,7 @@
 <img width="540" alt="Снимок экрана 2023-01-15 в 11 28 04" src="https://user-images.githubusercontent.com/120243288/214478767-1c6d0174-35d7-4950-b0ac-3595dc86c5ec.png">
 <img width="473" alt="Снимок экрана 2023-01-15 в 11 28 20" src="https://user-images.githubusercontent.com/120243288/214478769-65aba2b6-212e-47b0-8737-9ae66eb22ca0.png">
 <img width="458" alt="Снимок экрана 2023-01-15 в 11 29 23" src="https://user-images.githubusercontent.com/120243288/214478775-bb6cc862-c171-49e8-b4a4-173ca74c4c76.png">
-<img width="431" alt="Снимок экрана 2023-01-15 в 11 29 48" src="h<img width="365" alt="Снимок экрана 2023-01-15 в 11 30 15" src="https://user-images.githubusercontent.com/120243288/214478785-25b31b66-b9c0-4d18-a15a-aa4240f68b45.png">
-<img width="567" alt="Снимок экрана 2023-01-15 в 11 30 28" src="https://user-images.githubusercontent.com/120243288/214478787-7a5ef670-c106-42e8-a661-f21a0304d544.png">
-<img width="527" alt="Снимок экрана 2023-01-15 в 11 30 55" src="https://user-images.githubusercontent.com/120243288/214478789-45e12359-0dc9-44f9-ae7e-7b2255f480de.png">
+
  
  
 # Журнал проекта и описание работы с программой
